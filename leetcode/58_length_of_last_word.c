@@ -2,6 +2,7 @@
 # include <string.h>
 # include <stdio.h>
 
+//https://leetcode.com/problems/length-of-last-word/
 // Runtime: 0 ms, faster than 100.00% of C online submissions for Length of Last Word.
 //Memory Usage : 5.7 MB, less than 74.46 % of C online submissions for Length of Last Word.
 
